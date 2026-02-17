@@ -1,5 +1,5 @@
-Name: Laura Bell Main 
-Role: Lead Engineer - Application Security and Vulnerability Management
+# Name: Laura Bell Main 
+## Role: Lead Engineer - Application Security and Vulnerability Management
 
 <!-- begin provided scenario and task content -->
 
