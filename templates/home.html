@@ -1,0 +1,14 @@
+{% set title = title|default(_fsdomain('Login')) %}
+{% extends "security/base.html" %}
+{% from "security/_macros.html" import render_field_with_errors, render_field, render_field_errors, render_form_errors, prop_next %}
+
+{% block content %}
+
+            <h1>Fancy Homepage</h1>
+            <h3>{{ message }}</h3>
+
+
+
+
+  {% include "security/_menu.html" %}
+{% endblock content %}
